@@ -1,4 +1,5 @@
 # inventario
 
-Aplicación de prueba..
-Modificado en VSC..
+Aplicación de prueba GiHub
+
+Modificado en VSC.. para verificar sincronización.
