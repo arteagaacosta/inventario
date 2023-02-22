@@ -1,0 +1,3 @@
+# inventario
+
+Aplicación de prueba..
